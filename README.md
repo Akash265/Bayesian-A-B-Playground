@@ -392,7 +392,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 **Akash Kaushik**
 - Email: akash265457k@gmail.com
 - GitHub: [@Akash265](https://github.com/Akash265)
-- LinkedIn: [yourprofile](https://linkedin.com/in/yourprofile)
+- LinkedIn: [Akash Kaushik](https://www.linkedin.com/in/akash-kaushik-9100b0238/)
 
 ## Acknowledgments
 
